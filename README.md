@@ -20,4 +20,5 @@
   
   
  ### Connect with me: 
- https://www.linkedin.com/in/marianna-kanellaki-a4b649234/
+ <img alt="LinkedIn:" src="https://img.icons8.com/color/344/linkedin.png" width="20"/>  https://www.linkedin.com/in/marianna-kanellaki-a4b649234/
+
