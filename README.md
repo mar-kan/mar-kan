@@ -4,11 +4,11 @@
 
 ## About Me
 
- - Recent CS graduate 
-    
- - Currently looking for a job as a Junior Software Engineer.
+ - Software Engineer
 
  - Would like to collaborate on OpenSource Projects
+
+ - Personal Projects Account
 
  - My CV is available in: www.kanellakis.eu
 
